@@ -1,2 +1,2 @@
 # MNDRiN
- huh?
+ Hello
